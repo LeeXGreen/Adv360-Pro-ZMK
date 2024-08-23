@@ -80,11 +80,11 @@
 
         layer_thumb {
             bindings = <
- &trans  &trans          &trans          &trans           &trans  &trans             &trans                                                   &trans          &trans          &trans        &trans           &trans  &trans  &trans
- &trans  &trans          &trans    &kp UP_ARROW           &trans  &trans             &trans                                                   &trans          &trans          &trans        &trans           &trans  &trans  &trans
- &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans             &trans  &trans  &trans                  &trans  &trans   &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
- &trans  &trans       &kp LSHFT          &trans         &kp LALT  &trans                             &trans                  &trans                           &trans          &trans        &trans           &trans  &trans  &trans
- &trans  &trans          &trans          &trans           &trans                    &kp DEL  &trans  &trans                  &trans   &none  &kp TAB                          &trans        &trans           &trans  &trans  &trans
+ &trans          &trans            &trans          &trans           &trans  &trans             &trans                                                   &trans          &trans          &trans        &trans           &trans  &trans  &trans
+ &trans          &trans            &trans    &kp UP_ARROW           &trans  &trans             &trans                                                   &trans          &trans          &trans        &trans           &trans  &trans  &trans
+ &trans          &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans             &trans  &trans  &trans                  &trans  &trans   &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans
+ &trans  &kp LEFT_SHIFT  &kp LEFT_CONTROL        &kp LCMD         &kp LALT  &trans                             &trans                  &trans                           &trans          &trans        &trans           &trans  &trans  &trans
+ &trans          &trans            &trans          &trans           &trans                    &kp DEL  &trans  &trans                  &trans   &none  &kp TAB                          &trans        &trans           &trans  &trans  &trans
             >;
         };
 
